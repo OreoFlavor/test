@@ -4,3 +4,4 @@ edit from UI
 branch_1에서 파일 첫번째 수정
 branch_1에서 파일 두번째 수정
 branch_2에서 파일 첫번째 수정
+branch_2에서 파일 두번째 수정
